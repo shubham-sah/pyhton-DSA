@@ -4,4 +4,4 @@ we are going to be writing a lot of neetcode today :)
 
 Python:
 
-for beginner - solve entire neetcode python questions on Python for Beginners course
+for beginner - solve entire neetcode python questions on Python for Beginners course.
