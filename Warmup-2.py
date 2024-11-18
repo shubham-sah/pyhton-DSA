@@ -62,8 +62,6 @@ def string_bits(str):
   return (str[0:length:2])
 
 
-
-
 def array_count9(nums):
   length = len(nums)
   cnt = 0
