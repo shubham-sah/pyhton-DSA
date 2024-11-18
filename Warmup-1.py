@@ -95,15 +95,4 @@ def front3(str):
         return str+str+str
     else:
         str = str[0:3]
-        return str+str+str  
-
-
-
-print("shubham")
-
-
-
-#learn about string and substring in python
-#learn about in built math operations in python
-#learn about conditionals in python
-
+        return str+str+str      
